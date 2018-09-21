@@ -1,0 +1,27 @@
+_repo: War-the-Creator_54124
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Burgess, Gelett
+    alias: Burgess, Frank Gelett
+    birthdate: 1866
+    deathdate: 1951
+    gutenberg_agent_id: '3732'
+    url: http://www.gutenberg.org/2009/agents/3732
+    wikipedia: http://en.wikipedia.org/wiki/Gelett_Burgess
+description: ''
+gutenberg_issued: '2017-02-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54124'
+  lccn: '16016724'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Campaigns -- Western Front'
+- GITenberg
+title: War the Creator
+url: http://www.gutenberg.org/ebooks/54124
